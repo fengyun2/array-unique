@@ -1,0 +1,20 @@
+{
+  "name": "array-unique",
+  "version": "1.0.0",
+  "description": "array-unique, 函数式编程下的数组去重",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon --debug --harmony-async-await --allow-natives-syntax  app.js"
+  },
+  "keywords": ["array", "unique"],
+  "author": "fengyun2 <2816708306@qq.com>",
+  "private": true,
+  "engines": {
+    "node": ">=7.0.0",
+    "npm": "^3.0.0"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
